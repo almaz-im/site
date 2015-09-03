@@ -1,0 +1,39 @@
+﻿@charset "utf-8";
+/* CSS Document */
+html{width:100%; min-width:1440px;}
+body{margin:0; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;}
+h1, h2{padding-top: 100px;}
+.navigation{position:absolute; margin:3% 0 0 54%;}
+.navigation ul li{display:inline-block;  padding:8px;}
+li a{text-decoration:none; color:#fff; text-decoration:none; padding:20px;}
+li a:hover{color:#fff; border:1px solid #fff; border-radius:2px; padding:8px 10px;}
+li a:active{color:#fff; border:1px solid #fff; border-radius:2px; padding:8px 10px;}
+li a:visited{color:#fff; border:1px solid #fff; border-radius:2px; padding:8px 10px;}
+#welcome{background:url(img/Welcome.jpg); height:596px;}
+#welcome p{margin:234px 0 0 280px; font-size:40px;}
+#services{background:url(img/Services.jpg); height:745px; color:#fff; padding-top: 1px;}
+#team{background:url(img/Team.jpg); height:914px; padding-top: 1px;}
+#skills{background:url(img/Skills.jpg); height:744px; padding-top: 1px;}
+#portfolio{background:url(img/Portfolio.jpg); height:1297px; padding-top: 1px;}
+#testmonials{background:url(img/Testmonials.jpg); height:894px; color:#fff; padding-top: 1px;}
+#get{background:url(img/Get in touch.jpg); height:1030px; padding-top: 1px;}
+.big img{border-radius:2px; cursor:pointer; margin-top: 28%;}
+.big img:hover{background:url(img/big hover.jpg);}
+tr td img{margin: -7px 0 0 -2px;}
+td{width:260px; padding: 5px 40px;}
+.four{width:100%;}
+.four td{width:25%; padding:0;}
+.three{width:100%;}
+.three td{width:33%; padding:0;}
+.categories{position:absolute; margin:-7% 0 0 36%;}
+.categories ul li{display:inline-block;  padding:8px;}
+li a{text-decoration:none; color:#fff; text-decoration:none; padding:20px;}
+li a:hover{color:#fff; border:1px solid #fff; border-radius:2px; padding:8px 10px;}
+li a:active{color:#fff; border:1px solid #fff; border-radius:2px; padding:8px 10px;}
+li a:visited{color:#fff; border:1px solid #fff; border-radius:2px; padding:8px 10px;}
+.works td{padding:0;}
+.people{padding:0; margin:0;}
+.people td{padding:0;}
+.people img{padding:0; margin:30px -130px 0 120px;}
+.prof2, .prof4{padding:0; margin: 0 180px 0 0;}
+.prof3, .prof4{padding-top:150px;}
